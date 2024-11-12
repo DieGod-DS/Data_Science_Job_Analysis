@@ -1,4 +1,4 @@
-# Análise de Cargos na Área de Dados
+# Análise de Cargos Em Data Science
 
 ## Contexto
 O mercado de Dados está em contante crescimento, é uma área relativamente nova e muitas muito requisitada por qualquer tipo de negócio. Com essa crescente na demanda de funcionários para o cargo, muitas pessoas acabaram migrando para área de dados seduzidos pela sua grante quantidade de benefícios.
